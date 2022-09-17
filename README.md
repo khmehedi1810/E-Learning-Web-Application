@@ -1,2 +1,2 @@
 # E-Learning-Web-Application
-This is E-Learning Web Application. 
+This is E-Learning Web Application. There are three Dashboards are present here. One for students, then another one for teachers, the another one for Admin. Permitted teacher can offer courses for students. Only varified teachers can offer courses. Students can enrollee course via secret enrollement key. Every course has unique course key. Students can contact with their course teacher and give them feedback. And teachers can give compain or any kind of message against students. Teacher can not take direct action against a student. Admin has all the rights and power to take any kinds off actions. There are lot more features are available in this project. 
