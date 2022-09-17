@@ -1,0 +1,171 @@
+/*Nav Menu */
+.head-title h1, .head-title h2{
+	color: #5A5A5C;
+}
+.global-heading-col{
+	color: #5A5A5C;
+}
+.global-logo-bg-dark{
+	background-color: #5A5A5C;
+}
+.global-logo-bg-light{
+	background-color: #F58020;
+}
+.navbar-custom{
+	background-color: #F58020;
+}
+.custom-nav ul li a.nav-link {
+    font-weight: bold;
+    font-size: 20px;
+    color: #ffffff !important;
+}
+.nav-item.active a.nav-link{
+	color: #5A5A5C !important;
+}
+.custom-nav .nav-item a.nav-link:hover{
+    color: #5A5A5C !important;
+    text-decoration: underline;
+}
+/*Classess Section*/
+.classess_con{
+	background-image: url('img/1 (6).jpg');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.classess a:hover {
+	text-decoration: none;
+}
+.custom-shadow{
+	box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+}
+.cards:hover{
+	background: #F58020!important;
+}
+.classess .border-warning{
+	border:1px solid #F58020!important;
+}
+/*button Section*/
+.btn-logo-col{
+	background-color: #F58020;
+	color: #fff;
+	font-weight: bold;
+}
+.btn-logo-col:hover{
+	background-color: #5A5A5C;
+	color: #fff;
+}
+.btn-logo-col-1{
+	background-color: #5A5A5C;
+	color: #fff;
+	font-weight: bold;
+}
+.btn-logo-col-1:hover{
+	background-color: #F58020;
+	color: #fff;
+}
+/*Teacher Section #FAE0B2*/
+.teacher p a{
+	font-size: 20px;
+	color: #5d5454;
+}
+.bg-teac-sec{
+	background-color: #FAE0B2;
+}
+/*FAQ*/
+.card-header:first-child {
+    border-radius: 0;
+}
+.card-header {
+    padding: 0;
+    margin-bottom: 0;
+    background-color: snow;
+    border-bottom: none;
+}
+.faq-sec .card-header h5 button {
+	font-size: 20px;
+}
+/*Footer Part*/
+.bg-foot-custom {
+    background: rgb(91,91,93);
+    color: #fff;
+}
+.bg-foot-custom-con{
+	padding-top: 6%;
+	padding-bottom: 4%;
+}
+#foot-sos-med i {
+    color: #fff;
+    background: #F58020;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 0;
+}
+.first-foot-col p{
+	color: rgba(0, 0, 0, 0.7)!important;
+	line-height: 32px;
+}
+.third-foot-col a, .fourth-foot-col a, .secnd-foot-col a{
+	text-decoration: underline;
+	color: #fff;
+}
+.secnd-foot-col a:hover, .third-foot-col a:hover, .fourth-foot-col a:hover{
+	color: #F58020;
+}
+.copy-right{
+	padding-top: 2%;
+	padding-bottom: 2%;
+	background-color: #F58020;
+}
+.copy-right p{
+	font-size: 16px;
+	color: #5A5A5C;
+}
+.copy-right a{
+	color: #5A5A5C;
+	text-decoration: underline;
+}
+/*End Footer Part*/
+/*Foot Social Media*/
+
+#foot-sos-med li a.nav-link {
+    font-size: 22px;
+}
+/*Rules*/
+.rules ol li{
+	font-size: 16px;
+}
+
+/*Contact Page*/
+.contact-page-contact-lineheight p{
+	line-height: 12px;
+}
+.contat-page-form input[type="text"], .contat-page-form textarea{
+	border:none;
+	border-bottom: 1px solid #ddd; 
+}
+.contactpage-card{
+	padding: 10px;
+	color: #fff;
+	background: #F58020;
+	border-radius: 10px;
+	margin-bottom: 5px;
+}
+.contactpage-card:hover{
+	background-color: #5A5A5C;
+}
+.contactpage-card a{
+	color: #fff;
+
+}
+/*Classess Page*/
+.accordion>.card>.card-header {
+    background: #F58020;
+}
+.accordion .card:not(:first-of-type) .card-header:first-child {
+    background: #F58020;
+}
+#accordionExample .card h2 button{
+	color: #5A5A5C;
+	font-weight: 700;
+}
